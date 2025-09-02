@@ -1,0 +1,29 @@
+¿Cuál es el punto más débil de PGP?
+En primer lugar, la seguridad de PGP depende de las claves utilizadas para cifrar los datos. Si las claves son débiles o están comprometidas, el cifrado puede ser descifrado.
+En segundo lugar, la seguridad de PGP depende de su implementación.
+PGP no te protegerá si usas un cliente defectuoso.
+
+En tercer lugar, como en la mayoría de los sistemas de seguridad, el eslabón más débil de PGP es el usuario. Si pierde su clave privada o si su dispositivo o sus cuentas se ven comprometidos por un ataque de phishing,
+ PGP no podrá salvarle.
+
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+
+1 Cifrado de datos masivos
+2 Comunicación entre partes de confianza 
+3 Entornos con recursos limitados
+
+Ejemplos
+
+1 Códigos PIN y verificación de contraseña
+2 Datos de transacciones durante el procesamiento
+3 Saldos de cuentas en bases de datos
+4 Datos de la sesión mientras está conectado
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+
+El ciclo de vida del desarrollo de software (SDLC) es
+un proceso que engloba la planificación, la implementación y
+el mantenimiento de los sistemas de software,
+y que ha estado presente de una forma u otra
+durante la mayor parte de los últimos 60 años. 
