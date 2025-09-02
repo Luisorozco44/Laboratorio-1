@@ -26,4 +26,4 @@ El ciclo de vida del desarrollo de software (SDLC) es
 un proceso que engloba la planificación, la implementación y
 el mantenimiento de los sistemas de software,
 y que ha estado presente de una forma u otra
-durante la mayor parte de los últimos 60 años. 
+durante la mayor parte de los últimos 60 años.  
